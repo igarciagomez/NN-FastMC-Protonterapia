@@ -99,7 +99,7 @@ per-beamlet γ 1%/1mm pass rates at the 10% and 0.5% dose cuts.
 
 ## What is next
 
-1. Campaign-scale calibration of C1 on IFCA (all 85 energies).
+1. Campaign-scale calibration of C1 on the Altamira supercomputer (all 85 energies).
 2. First real training of the C2 corrector (bf16, multi-GPU).
 3. Calibrated uncertainty (evidential + conformal), then the differentiable
    inverse-planning loop.
