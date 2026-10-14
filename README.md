@@ -1,4 +1,4 @@
-# nn-fastmc-protonterapia
+# NN-FastMC-Protonterapia
 
 Neural fast Monte Carlo for pencil-beam-scanning (PBS) proton therapy: a
 **differentiable pencil-beam engine** plus a **residual neural corrector**,
